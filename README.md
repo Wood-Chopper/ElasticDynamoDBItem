@@ -1,5 +1,7 @@
 # ElasticDynamoDBItem
 
+Library used to extend the DynamoDB items size limit is AWS.
+
 The principle of *ElasticDynamoDBItem* is simple:
  - step 0: The initial structure of an item.
  - step 1: When inserting an entry in a list, if an exception is thrown because the item exceeds the size limit.
