@@ -1,6 +1,6 @@
 # ElasticDynamoDBItem
 
-Library used to extend the DynamoDB items size limit is AWS.
+Library used to extend the DynamoDB items size limit in AWS.
 
 The principle of *ElasticDynamoDBItem* is simple:
  - step 0: The initial structure of an item.
